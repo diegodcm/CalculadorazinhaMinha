@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/d80b65d83158f5fed586ae806172b9b940642378/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_552a439992f3ba6168d1cc2f0db73e9a8a6f4ead.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/14e043565246e057a33e98a35ab8b5b733fe190c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed78a7c5959ad50728138e8d57624b46747e6a1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/d80b65d83158f5fed586ae806172b9b940642378/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_552a439992f3ba6168d1cc2f0db73e9a8a6f4ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8e17074113860b2e27266ba6b03422c3aea1608b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/14e043565246e057a33e98a35ab8b5b733fe190c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_ed78a7c5959ad50728138e8d57624b46747e6a1c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4b3c23b10ebbb95cf19e8b9d7730541d7b6d2d75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/8a944c70711161938db372ca16e94a24f6b0802d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98114348cfb519dc43e0d6696692e1e4e686c0ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/c7f9317af648f9fd5dbe2e0190c468668210099c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebfc45dff3d15653e153f71493bcfdc436172aa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/8a944c70711161938db372ca16e94a24f6b0802d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_98114348cfb519dc43e0d6696692e1e4e686c0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/c7f9317af648f9fd5dbe2e0190c468668210099c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_ebfc45dff3d15653e153f71493bcfdc436172aa9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43ddb810190a8fae3b1e3f962cfd60533b131b6d">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aeb15f681bc6dfd4201c6a1a1e79fe339ccb1a9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/0c73c2dcdba6c0dd85a4c04cf5f90a42858dd986/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_fe3669667e69ca04d401735d59a8724b7150a935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/411f842cae8bcbd472aa20f96579c34eb6a5acd4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_d638c1b390186fc920874214eeab87589c9dcea3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/0c73c2dcdba6c0dd85a4c04cf5f90a42858dd986/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe3669667e69ca04d401735d59a8724b7150a935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/411f842cae8bcbd472aa20f96579c34eb6a5acd4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d638c1b390186fc920874214eeab87589c9dcea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/3b11a97aa62ec1ee3434c94d1a545f458aae2bd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_0ad62d8cba073f18cca22f45b20c360c082b2619.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/6f8fc925d1f73c6897a00326e894393fb4a9296f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e883473ca4303040f5b699f5bc8eeaa93b80cc5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/3b11a97aa62ec1ee3434c94d1a545f458aae2bd1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ad62d8cba073f18cca22f45b20c360c082b2619/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/6f8fc925d1f73c6897a00326e894393fb4a9296f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_e883473ca4303040f5b699f5bc8eeaa93b80cc5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/8b0b0fede03bcf0f54426928cc6aac475e856233/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_76a32ec5e61be48e7cd0f96b26029529474a2e25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8e17074113860b2e27266ba6b03422c3aea1608b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/8b0b0fede03bcf0f54426928cc6aac475e856233/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76a32ec5e61be48e7cd0f96b26029529474a2e25/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_161d0171ca67aca0099f6c6316208371c547cbd4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_161d0171ca67aca0099f6c6316208371c547cbd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.android/build-cache/4a511a539da8afd1db9b5a8c1f499c56cc18c1fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/pre-dexed/debug/classes_09be468d1d752eea78e55fb009f4b02bc8ae9703.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/4a511a539da8afd1db9b5a8c1f499c56cc18c1fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/diego/AndroidStudioProjects/CalculadorazinhaMinha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09be468d1d752eea78e55fb009f4b02bc8ae9703/classes.dex" />
+    </item>
+
+</items>
