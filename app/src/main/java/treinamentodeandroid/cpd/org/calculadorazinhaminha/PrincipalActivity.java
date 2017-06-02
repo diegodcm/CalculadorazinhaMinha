@@ -25,8 +25,10 @@ public class PrincipalActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
+        calculadora = new Calculadora();
         recuperaElementos();
         registraEventos();
+        limpaVisor();
     }
 
 
@@ -140,13 +142,64 @@ public class PrincipalActivity extends AppCompatActivity {
             }
         });
 
-     // registra evento btnPoint
+    // registra evento btnPoint
         btnPoint.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
                 String textoDoVisor = txtVisor.getText().toString();
                 textoDoVisor = textoDoVisor + ".";
                 txtVisor.setText(textoDoVisor);
+            }
+        });
+
+    // registra evento btnSoma
+        btnSoma.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                tipoDeConta = TipoDeConta.SOMA;
+                num1 = Double.parseDouble(txtVisor.getText().toString());
+                limpaVisor();
+            }
+        });
+
+    // registra evento btnSub
+        btnSub.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                tipoDeConta = TipoDeConta.SUBTRACAO;
+                num1 = Double.parseDouble(txtVisor.getText().toString());
+                limpaVisor();
+            }
+        });
+
+    // registra evento btnMulti
+        btnMult.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                tipoDeConta = TipoDeConta.MULTIPLICACAO;
+                num1 = Double.parseDouble(txtVisor.getText().toString());
+                limpaVisor();
+            }
+        });
+
+    // registra evento btnDiv
+        btnDiv.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                tipoDeConta = TipoDeConta.DIVISAO;
+                num1 = Double.parseDouble(txtVisor.getText().toString());
+                limpaVisor();
+            }
+        });
+
+    // registra evento btnIgual
+        btnIgual.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                double result = 0.0;
+                num2 = Double.parseDouble(txtVisor.getText().toString());
+                result = calculadora.fazerCalculo(num1,num2,tipoDeConta);
+                txtVisor.setText(String.valueOf(result));
             }
         });
 
@@ -171,5 +224,11 @@ public class PrincipalActivity extends AppCompatActivity {
         btn0 = (Button) findViewById(R.id.btn_num0); /* Recuperando btn_num0 */
         btnCE = (Button) findViewById(R.id.btn_limpa); /* Recuperando btn_limpa */
         btnPoint = (Button) findViewById(R.id.btn_ponto); /* Recuperando btn_ponto */
+        btnCE = (Button) findViewById(R.id.btn_limpa);  /* Recuperando btn_limpa */
+        btnIgual = (Button) findViewById(R.id.btn_igual); /* Recuperando btn_igual */
+        btnSoma = (Button) findViewById(R.id.btn_mais); /* Recuperando btn_mais */
+        btnSub = (Button) findViewById(R.id.btn_menos); /* Recuperando btn_menos */
+        btnDiv = (Button) findViewById(R.id.btn_div); /* Recuperando btn_div */
+        btnMult = (Button) findViewById(R.id.btn_mult); /* Recuperando btn_mult */
     }
 }

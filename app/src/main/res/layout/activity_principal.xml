@@ -119,35 +119,35 @@
                         android:text="="
                         android:background="#bebebe"
                         android:textSize="32sp"
-                        android:id="@+id/btnIgual"/>
+                        android:id="@+id/btn_igual"/>
                     <Button
                         android:layout_height="wrap_content"
                         android:layout_width="wrap_content"
                         android:text="+"
                         android:background="#bebebe"
                         android:textSize="32sp"
-                        android:id="@+id/btnSoma"/>
+                        android:id="@+id/btn_mais"/>
                     <Button
                         android:layout_height="wrap_content"
                         android:layout_width="wrap_content"
                         android:text="-"
                         android:background="#bebebe"
                         android:textSize="32sp"
-                        android:id="@+id/btnSub"/>
+                        android:id="@+id/btn_menos"/>
                     <Button
                         android:layout_height="wrap_content"
                         android:layout_width="wrap_content"
                         android:text="X"
                         android:background="#bebebe"
                         android:textSize="32sp"
-                        android:id="@+id/btnMult"/>
+                        android:id="@+id/btn_mult"/>
                     <Button
                         android:layout_height="wrap_content"
                         android:layout_width="wrap_content"
                         android:text="/"
                         android:background="#bebebe"
                         android:textSize="32sp"
-                        android:id="@+id/btnDiv"/>
+                        android:id="@+id/btn_div"/>
                 </GridLayout>
             </TableRow>
         </TableLayout>
